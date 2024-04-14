@@ -12,7 +12,7 @@ import (
 )
 
 var appName string
-var apiKey = "4b1e3c9fc55aab7d840a37117f2c9bd0" // Replace with your actual API key
+var apiKey = "xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx" // Replace with your actual API key
 
 func main() {
 	log.SetOutput(os.Stderr)
